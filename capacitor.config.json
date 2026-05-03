@@ -1,0 +1,11 @@
+{
+  "appId": "com.miapp.player",
+  "appName": "MiApp",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
