@@ -1,6 +1,7 @@
 {
   "name": "mi-apk",
   "version": "1.0.0",
+  "versionCode": 1,
   "private": true,
   "scripts": {
     "sync": "cap sync android",

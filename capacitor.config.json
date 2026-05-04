@@ -1,6 +1,6 @@
 {
   "appId": "com.miapp.player",
-  "appName": "MiApp",
+  "appName": "MiApp Player",
   "webDir": "www",
   "android": {
     "allowMixedContent": true
